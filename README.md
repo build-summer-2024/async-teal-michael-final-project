@@ -1,12 +1,12 @@
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024?resource=download
 
 ## Why did I chose this dataset?
 
 [Placeholder for answer]
 
 ## Progress
-- [ ] Picked dataset
+- [X] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
