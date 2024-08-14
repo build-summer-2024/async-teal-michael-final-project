@@ -1,8 +1,8 @@
 ## Dataset
-(https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates)
+[(https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates)](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
-## Why did I chose this dataset?
-With the 2024 presidential elections coming up,  I wanted to analyze voter turnout statistics from the 2020 presidential election to study any trends and patterns regarding voter turnout between states and help bring attention to coming up with solutions to increase voter turnout in 2024.
+## Why did I choose this dataset?
+I wanted to analyze students' performance and see if there was any correlation between a multitude of factors such as age, parental education, extracurricular activities, and more.
 
 
 
