@@ -18,9 +18,9 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: Tutoring GPA: 2.10
   - No Tutoring GPA: 1.81
   - Visualization:
-  - ![Q1 Visualization](./Question1.png)
+   ![Q1 Visualization](./Question1.png)
 
-- [ ] Question 2: Average GPA of students?
+  - [ ] Question 2: Average GPA of students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
