@@ -1,5 +1,5 @@
 ## Dataset
-[(https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates)](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+[Student Performance](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 ## Why did I choose this dataset?
 I wanted to analyze students' performance and see if there was any correlation between a multitude of factors such as age, parental education, extracurricular activities, and more.
@@ -34,11 +34,11 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: [Brief description of the task]
+- [ ] Question 6: What is the average parental support for the top 20 students and the lower 20 students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: [Brief description of the task]
+- [ ] Question 7: How many students have a 4.0 GPA?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
