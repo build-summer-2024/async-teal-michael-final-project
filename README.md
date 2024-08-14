@@ -15,7 +15,8 @@ I wanted to analyze students' performance and see if there was any correlation b
 
 ## Questions
 - [ ] Question 1: What is the average GPA of students who receive tutoring versus no tutoring?
-  - Answer: [Placeholder for answer]
+  - Answer: Tutoring GPA: 2.10
+  - No Tutoring GPA: 1.81
   - Visualization: ![Q1 Visualization](./Question1.png)
 
 - [ ] Question 2: Average GPA of students?
