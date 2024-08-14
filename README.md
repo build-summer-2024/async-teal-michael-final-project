@@ -22,11 +22,11 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: Is there any correlation between number absences and GPA?
+- [ ] Question 3: Is there any correlation between the number absences and GPA?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4:Top 10 Students Versus Bottom 10
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
