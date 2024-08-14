@@ -30,7 +30,7 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: Is there any correlation between study time and GPA?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
