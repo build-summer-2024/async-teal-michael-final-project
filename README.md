@@ -44,9 +44,13 @@ I wanted to analyze students' performance and see if there was any correlation b
     Average Parent Support Bottom 20 GPA:  1.0
   - Visualization: ![Q6 Visualization](./Question6.png)
 
-- [ ] Question 7: How many students have between 0.0 - 1.0 GPA? 1.0 - 2.0? 2.0 - 3.0? 3.0 - 4.0?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [X] Question 7: How many students have between 0.0 - 1.0 GPA? 1.0 - 2.0? 2.0 - 3.0? 3.0 - 4.0?
+  - Answer: Number of students with GPA in range 0.0 - 1.0: 468
+  Number of students with GPA in range 1.0 - 2.0: 806
+  Number of students with GPA in range 2.0 - 3.0: 797
+  Number of students with GPA in range 3.0 - 4.0: 314
+
+  - Visualization: ![Q7 Visualization](./Question7.png)
 
 - [ ] Question 8: [Brief description of the task]
   - Answer: [Placeholder for answer]
