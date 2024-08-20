@@ -34,9 +34,10 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: See Graph
   - Visualization: ![Q4 Visualization](./Question4.png)
 
-- [ ] Question 5:
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [X] Question 5: What is the average GPA of students who are involved in sports versus those who are not?
+  - Answer: No Sports: 1.871240
+  Sports: 1.986381
+  - Visualization: ![Q5 Visualization](./Question5.png)
 
 - [ ] Question 6: What is the average parental support for the top 20 students and the lower 20 students?
   - Answer: [Placeholder for answer]
