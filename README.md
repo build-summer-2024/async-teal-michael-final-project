@@ -19,7 +19,7 @@ I wanted to analyze students' performance and see if there was any correlation b
   - No Tutoring GPA: 1.81
   - Visualization: ![Q1 Visualization](./Question1.png)
     
-- [X] Question 2: 
+- [X] Question 2: What is the average GPA of students grouped by weekly study hours?
   - Answer: 0-5 hours  1.691647
      6-10 hours  1.849145
     11-15 hours  1.999016
@@ -30,11 +30,11 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Answer: 29
   - Visualization: ![Q3 Visualization](./Question3.png)
 
-- [ ] Question 4:Top 10 Students Versus Bottom 10
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+- [X] Question 4:Top 10 Students Versus Bottom 10
+  - Answer: See Graph
+  - Visualization: ![Q4 Visualization](./Question4.png)
 
-- [ ] Question 5: Is there any correlation between study time and GPA?
+- [ ] Question 5:
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
