@@ -19,14 +19,14 @@ I wanted to analyze students' performance and see if there was any correlation b
   - No Tutoring GPA: 1.81
   - Visualization: ![Q1 Visualization](./Question1.png)
     
-  - [ ] Question 2: 
+- [X] Question 2: 
   - Answer: 0-5 hours  1.691647
      6-10 hours  1.849145
     11-15 hours  1.999016
     16-20 hours  2.105937
   - Visualization: ![Q2 Visualization](./Question2.png)
 
-- [ ] Question 3: Max number of absences? Is there any correlation between the number absences and GPA?
+- [X] Question 3: Max number of absences? Is there any correlation between the number absences and GPA?
   - Answer: 29
   - Visualization: ![Q3 Visualization](./Question3.png)
 
