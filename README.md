@@ -20,8 +20,11 @@ I wanted to analyze students' performance and see if there was any correlation b
   - Visualization: ![Q1 Visualization](./Question1.png)
     
   - [ ] Question 2: 
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Answer: 0-5 hours  1.691647
+     6-10 hours  1.849145
+    11-15 hours  1.999016
+    16-20 hours  2.105937
+  - Visualization: ![Q2 Visualization](./Question2.png)
 
 - [ ] Question 3: Is there any correlation between the number absences and GPA?
   - Answer: [Placeholder for answer]
