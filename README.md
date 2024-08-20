@@ -39,11 +39,12 @@ I wanted to analyze students' performance and see if there was any correlation b
   Sports: 1.986381
   - Visualization: ![Q5 Visualization](./Question5.png)
 
-- [ ] Question 6: What is the average parental support for the top 20 students and the lower 20 students?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [X] Question 6: What is the average parental support for the top 20 students and the lower 20 students?
+  - Answer: Average Parent Support Top 20 GPA:  3.2
+    Average Parent Support Bottom 20 GPA:  1.0
+  - Visualization: ![Q6 Visualization](./Question6.png)
 
-- [ ] Question 7: How many students have a 4.0 GPA?
+- [ ] Question 7: How many students have between 0.0 - 1.0 GPA? 1.0 - 2.0? 2.0 - 3.0? 3.0 - 4.0?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
