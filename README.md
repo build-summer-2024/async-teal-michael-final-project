@@ -64,6 +64,10 @@ Other: 222
 Volunteering: 1.913089
   - Visualization: ![Q9 Visualization](./Question9.png)
 
-- [ ] Question 10: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [X] Question 10: What is the average GPA of students with parents who have different educational backgrounds?
+  - Answer: None: 1.893045
+High School: 1.944022
+Some College: 1.929881
+Bachelor's: 1.809082
+Higher: 1.815812
+  - Visualization: ![Q10 Visualization](./Question10.png)
