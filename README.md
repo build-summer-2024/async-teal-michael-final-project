@@ -59,9 +59,10 @@ Asian: 470
 Other: 222
   - Visualization: ![Q8 Visualization](./Question8.png)
 
-- [ ] Question 9: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [X] Question 9: What is the average GPA of students involved in volunteering versus those who are not?
+  - Answer: No Volunteering: 1.904899
+Volunteering: 1.913089
+  - Visualization: ![Q9 Visualization](./Question9.png)
 
 - [ ] Question 10: [Brief description of the task]
   - Answer: [Placeholder for answer]
