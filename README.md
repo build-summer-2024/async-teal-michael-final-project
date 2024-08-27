@@ -52,9 +52,12 @@ I wanted to analyze students' performance and see if there was any correlation b
 
   - Visualization: ![Q7 Visualization](./Question7.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [X] Question 8: What is the ethnic breakdown of the sample?
+  - Answer: Caucasian: 1207
+African American: 493
+Asian: 470
+Other: 222
+  - Visualization: ![Q8 Visualization](./Question8.png)
 
 - [ ] Question 9: [Brief description of the task]
   - Answer: [Placeholder for answer]
