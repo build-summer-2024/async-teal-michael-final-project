@@ -8,10 +8,10 @@ I wanted to analyze students' performance and see if there was any correlation b
 
 ## Progress
 - [X] Picked dataset
-- [ ] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [X] Defined 10 questions
+- [X] Answered 10 questions using Pandas
+- [X] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [X] Prepared presentation slides to present at graduation
 
 ## Questions
 - [X] Question 1: What is the average GPA of students who receive tutoring versus no tutoring?
